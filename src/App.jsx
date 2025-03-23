@@ -8,7 +8,7 @@ import Reports from "./components/Reports";
 
 import Setting from "./components/Setting";
 import Behaviour from "./components/Behaviour";
-import SalaryPage from "./components/salaryPage";
+import SalaryPage from "./components/SalaryPage";
 import FrontPage from "./components/FrontPage";
 import EmployeeLogin from "./pages/EmployeeLogin";
 import EmpHome from "./components/EmpHome";
